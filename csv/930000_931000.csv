@@ -1,0 +1,11 @@
+,date,titre,budget,recette,duree,genres,synopsis,tagline,realisateur,casting,compagnies_production,suite,production_countries,langues,imdb_id,vote_average,vote_count
+0,2022-09-03,Night Vacation 2,1000,100,105,"['Comedy', 'Adventure', 'Crime', 'Action']","The crew goes on a long vacation to get out of there building called ""House"", while dealing with conflicts involving, a mysterious criminal, curiosity, and most importantly, reuniting with Vorput's parents","The crew is back, but something is different","['Richie Vrolijk', 'Emily Vrolijk']","['Richie Vrolijk', 'Richie Vrolijk', 'Emily Vrolijk', 'Richie Vrolijk', 'Emily Vrolijk', 'Richie Vrolijk', 'Richie Vrolijk']","['Universal Pictures', 'Film8']",1,['US'],['en'],tt22028762,9.0,1
+1,2014-05-18,The Abandoned School,5,10,5,"['Horror', 'Thriller']",Five schoolkids take on the treacherous task of exploring The Abandoned School.,Who will make it out alive?,"['Adam ""10pcSpicyChickenMcnuggets"" Maher']","['Ethan ""Nugget"" Osterman', 'Gustavo ""Fish3"" Gonzales', 'Alex ""MexSpider"" Martinez', 'Armando ""StupidAssMF"" Palombi']",['Nube Tube Filming'],1,[],['en'],,10.0,1
+2,2022-01-14,Maia,3000,3000,0,[],,,['Renata Prado'],"['Amanda Lebeis', 'Carlos Bruno', 'Enrique Prado', 'Anderson Caldeiras']",[],1,[],['pt'],,0.0,0
+3,,1234,400,500,0,[],,,[],[],[],1,[],[],,0.0,0
+4,2017-03-11,Na Rua,100,100,0,['Documentary'],,,['Cleber Fernando Gomes'],[],[],1,['BR'],['pt'],,0.0,0
+5,2016-10-02,The voice mexican in square,100,100,0,['Documentary'],,,['Cleber Fernando Gomes'],[],[],1,['MX'],"['es', 'en']",,0.0,0
+6,2017-11-10,Dianoitesp,100,100,0,['Drama'],,,['Cleber Fernando Gomes'],[],[],1,['BR'],['pt'],,0.0,0
+7,2015-04-28,Cidademove,100,100,0,['Drama'],,,['Cleber Fernando Gomes'],[],[],1,['BR'],[],,0.0,0
+8,2015-03-18,O vazio na janela,100,100,0,['Drama'],,,['Cleber Fernando Gomes'],[],[],1,['BR'],[],,0.0,0
+9,2014-08-08,Chuva de cores,100,100,0,['Drama'],,,['Cleber Fernando Gomes'],[],[],1,['BR'],[],,0.0,0

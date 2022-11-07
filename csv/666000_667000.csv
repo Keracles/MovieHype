@@ -1,0 +1,5 @@
+,date,titre,budget,recette,duree,genres,synopsis,tagline,realisateur,casting,compagnies_production,suite,production_countries,langues,imdb_id,vote_average,vote_count
+0,,My Hai First Movie,5,5,0,[],My Hai First Movie for testing,HaiMovie,[],[],[],1,[],[],,0.0,0
+1,2020-01-12,Glop,5,69,2,['Documentary'],A young filmmaker takes a walk,ow my planet,['Jamie Jarvis-Stores'],[],['James J-S Films'],1,['US'],['en'],,0.0,0
+2,2017-06-06,Nightmare Weaver,5000,120,5,"['Horror', 'Fantasy']","Two Young students are on a detour from HELL! Trapped in an abandoned college they're going to need all the wits, skills and salt they can muster if they want to survive!",From the visionary director of Alien Hunter comes a new kind of horror,"[""Dale 'Beast' Salter""]",['Thomas Cutriss'],['NACL Productions'],1,[],[],,0.0,0
+3,2003-01-23,Kajsa,75,125,8,[],Short film greenish,,['Jérome Cesar Thomas'],[],[],1,[],[],,0.0,0
