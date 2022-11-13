@@ -5,6 +5,7 @@ import pandas as pd
 
 url_test1 = "https://www.the-numbers.com/box-office-star-records/worldwide/lifetime-acting/top-grossing-leading-stars"
 url_test = "https://www.the-numbers.com/box-office-star-records/worldwide/lifetime-specific-technical-role/director"
+url_test2 = "https://www.the-numbers.com/movies/production-companies/#production_companies_overview=od1"
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 
 def get(url):
@@ -41,14 +42,15 @@ def get_all():
     final_dict = {}
     dicts = []
     for i in range(1,17000,100):
-        dicts.append(parse_page(url_test + f"/{i}"))
+        dicts.append(parse_page(url_test2))
+        break
     for dict in dicts :
         final_dict.update(dict)
 
 
     df = pd.DataFrame(list(final_dict.items()),
-                   columns=['Director_Name', 'Worldwide_box_office'])
-    df.to_csv("director_scrap.csv")
+                   columns=['Compagny_Name', 'Worldwide_box_office'])
+    df.to_csv("compagny_scrap.csv")
 
 
 
