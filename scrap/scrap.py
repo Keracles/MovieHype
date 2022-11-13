@@ -33,7 +33,7 @@ def parse_page(url):
         for section in soup :
             name_director = section.find("a").contents[0].replace('"','')
             section = section.find_all(attrs={"align": "right"})
-            worldwide_box_office = parse_number(section[0].contents[0])
+            worldwide_box_office = parse_number(section[2].contents[0])
             dict[name_director] = worldwide_box_office
     return dict 
 
